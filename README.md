@@ -1,8 +1,6 @@
 # Java-Spring-Boot-CRUD
----
 
 ## 📍 What's inside
----
 This project is based on the Spring Boot project and uses these packages
 - Gradle Project
 - Java 11 JDK
@@ -11,7 +9,6 @@ This project is based on the Spring Boot project and uses these packages
 - Lombok
 
 ## 📍 Usage
----
 Run the project through the IDE and head out to
 http://localhost:8080
 
