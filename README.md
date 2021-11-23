@@ -1,5 +1,3 @@
-# Java-Spring-Boot-CRUD
-
 ## 📍 What's inside
 This project is based on the Spring Boot project and uses these packages
 - Gradle Project
